@@ -1,0 +1,20 @@
+# Installed dependencies
+node_modules/
+
+# Generated test output and logs
+coverage/
+.nyc_output/
+*.log
+
+# Local environment files
+.env
+.env.*
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local editor settings
+.vscode/
+.idea/
